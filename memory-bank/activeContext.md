@@ -17,6 +17,7 @@ Preparing for deployment of the new interactive design.
   - Configured GitHub Actions workflow for automated deployment to GitHub Pages.
   - Updated `CNAME` to `labs.hal51.ai`.
   - Fixed GitHub Actions workflow trigger to listen to `main` branch instead of `master`.
+  - Rewrote GitHub Actions workflow to use `peaceiris/actions-gh-pages` and Node.js 24 to resolve deployment issues.
 
 ## Next Steps
 1.  Verify responsiveness across devices (basic check done).
