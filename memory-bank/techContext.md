@@ -5,8 +5,9 @@
 - **Vite**: Latest
 - **Tailwind CSS**: 3+
 - **Framer Motion**: For animations and transitions.
-- **Node.js**: v24.6.0 (detected environment)
+- **Node.js**: v24 (detected environment)
 - **Package Manager**: npm
+- **CI/CD**: GitHub Actions
 
 ## Development Setup
 - **Commands**:

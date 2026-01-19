@@ -13,10 +13,13 @@ Preparing for deployment of the new interactive design.
   - **Home**: Staggered text reveals, mission section fade-ins, and hover effects on images. Removed card container from "Pivot to Safety" text for a cleaner, balanced layout.
   - **About**: Staggered grid entrance for team cards with interactive hover states.
   - **Research**: Created a dedicated page listing publications. elaborated the content to frame the research (Adversarial Robustness, Dataset Auditing) as the "engineering backbone" of the company's educational products, and fixed alignment issues for a cohesive layout.
+- **Infrastructure**:
+  - Configured GitHub Actions workflow for automated deployment to GitHub Pages.
+  - Updated `CNAME` to `labs.hal51.ai`.
 
 ## Next Steps
 1.  Verify responsiveness across devices (basic check done).
-2.  Deploy updates to GitHub Pages.
+2.  Push changes to `master` to trigger the first deployment.
 
 ## Active Decisions
 - **Design Language**: Shifted from generic corporate light theme to a "Dark Mode" tech-forward aesthetic to align with the product (LemurBox) and the AI Safety mission.
