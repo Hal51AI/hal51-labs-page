@@ -6,7 +6,7 @@ Hal51 AI needs a platform to articulate its dual focus on Education and AI Safet
 ## Solution
 A clean, professional website that tells this story:
 1.  **Origin**: Education & LemurBox (DIY holograms).
-2.  **Evolution**: Realization of AI Safety importance.
+2.  **Evolution**: The integration of LLMs into 3D avatars for education exposed the gap between AI capability and safety, providing unique, practical insights into AI alignment from real-world classroom deployment.
 3.  **Current Mission**: Building safe, aligned AI for education to benefit mankind.
 
 ## User Experience Goals

@@ -4,6 +4,7 @@
 Preparing for deployment of the new interactive design.
 
 ## Recent Changes
+- **Content Update**: Elaborated on the "Pivot to Safety" narrative on the Home page, detailing the transition from hardware to LLM-powered avatars and the resulting safety insights.
 - **Interactive Design**: Integrated `framer-motion` to add life and motion to the site.
 - **New Components**:
   - `AnimatedBackground`: A subtle, continuously moving background with floating orbs.

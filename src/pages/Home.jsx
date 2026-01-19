@@ -72,8 +72,11 @@ const Home = () => {
                     transition={{ duration: 0.2 }}
                   >
                     <h3 className="text-2xl font-bold text-white mb-4">The Pivot to Safety</h3>
+                    <p className="text-lg text-gray-400 leading-relaxed mb-4">
+                      What began as a hardware project to bring holograms to the classroom evolved into a frontier for AI research. By integrating Large Language Models into our rigged 3D avatars, we created interactive educational companions within the LemurBox.
+                    </p>
                     <p className="text-lg text-gray-400 leading-relaxed">
-                      Through our journey with LemurBox, we realized that one of the biggest challenges—and opportunities—in educational AI was data integrity and safety.
+                      However, the challenge of deploying these autonomous agents in schools revealed a critical truth: the gap between AI capability and safety is vast. Our hands-on experience in guard-railing these avatars provided us with a unique, practical perspective on AI alignment—insights that can only be gained from the real-world collision of advanced AI and human curiosity.
                     </p>
                   </motion.div>
                 </FadeIn>

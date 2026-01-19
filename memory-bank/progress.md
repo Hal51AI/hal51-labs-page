@@ -12,6 +12,7 @@
 - [x] CNAME created
 - [x] Visual Design Overhaul (Dark Theme)
 - [x] Interactive Design & Motion (Framer Motion)
+- [x] Content Refinement (Transition Story)
 
 ## Known Issues
 None.
