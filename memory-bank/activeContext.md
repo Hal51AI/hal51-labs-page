@@ -18,6 +18,7 @@ Preparing for deployment of the new interactive design.
   - Updated `CNAME` to `labs.hal51.ai`.
   - Fixed GitHub Actions workflow trigger to listen to `main` branch instead of `master`.
   - Rewrote GitHub Actions workflow to use `peaceiris/actions-gh-pages` and Node.js 24 to resolve deployment issues.
+- **Assets**: Created and linked a custom SVG favicon (Hexagon "H" design) to match the dark/cyan theme.
 
 ## Next Steps
 1.  Verify responsiveness across devices (basic check done).
