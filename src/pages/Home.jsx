@@ -50,9 +50,9 @@ const Home = () => {
             </p>
           </FadeIn>
 
-          <div className="mt-8">
-            <div className="flex flex-col lg:flex-row items-center gap-16">
-              <FadeIn className="lg:w-1/2 relative group" delay={0.2}>
+          <div className="mt-12">
+            <div className="flex flex-col lg:flex-row items-center gap-12">
+              <FadeIn className="lg:w-5/12 relative group" delay={0.2}>
                 {/* Glow effect */}
                 <div className="absolute -inset-1 bg-gradient-to-r from-cyan-400 to-violet-600 rounded-lg blur opacity-25 group-hover:opacity-75 transition duration-1000 group-hover:duration-200"></div>
                 <motion.img 
@@ -64,33 +64,20 @@ const Home = () => {
                 />
               </FadeIn>
               
-              <div className="lg:w-1/2 space-y-8">
+              <div className="lg:w-7/12">
                 <FadeIn delay={0.4}>
-                  <motion.div 
-                    className="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10"
-                    whileHover={{ scale: 1.02, backgroundColor: "rgba(255, 255, 255, 0.08)" }}
-                    transition={{ duration: 0.2 }}
-                  >
-                    <h3 className="text-2xl font-bold text-white mb-4">The Pivot to Safety</h3>
-                    <p className="text-lg text-gray-400 leading-relaxed mb-4">
+                  <div className="pl-0 lg:pl-8">
+                    <h3 className="text-3xl font-bold text-white mb-6">The Pivot to Safety</h3>
+                    <p className="text-lg text-gray-400 leading-relaxed mb-6">
                       What began as a hardware project to bring holograms to the classroom evolved into a frontier for AI research. By integrating Large Language Models into our rigged 3D avatars, we created interactive educational companions within the LemurBox.
                     </p>
-                    <p className="text-lg text-gray-400 leading-relaxed">
+                    <p className="text-lg text-gray-400 leading-relaxed mb-6">
                       However, the challenge of deploying these autonomous agents in schools revealed a critical truth: the gap between AI capability and safety is vast. Our hands-on experience in guard-railing these avatars provided us with a unique, practical perspective on AI alignment—insights that can only be gained from the real-world collision of advanced AI and human curiosity.
                     </p>
-                  </motion.div>
-                </FadeIn>
-                
-                <FadeIn delay={0.6}>
-                  <motion.div 
-                    className="bg-white/5 backdrop-blur-sm rounded-2xl p-8 border border-white/10"
-                    whileHover={{ scale: 1.02, backgroundColor: "rgba(255, 255, 255, 0.08)" }}
-                    transition={{ duration: 0.2 }}
-                  >
                     <p className="text-lg text-gray-400 leading-relaxed">
                       We established Hal51 AI Labs to focus deeply on AI safety and alignment. Our goal is to guarantee that as AI becomes a central tool in education, it remains safe, reliable, and beneficial for everyone.
                     </p>
-                  </motion.div>
+                  </div>
                 </FadeIn>
               </div>
             </div>

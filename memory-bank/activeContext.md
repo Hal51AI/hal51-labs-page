@@ -10,7 +10,7 @@ Preparing for deployment of the new interactive design.
   - `AnimatedBackground`: A subtle, continuously moving background with floating orbs.
   - `FadeIn`: A wrapper for scroll-triggered entrance animations.
 - **Page Enhancements**:
-  - **Home**: Staggered text reveals, mission section fade-ins, and hover effects on images.
+  - **Home**: Staggered text reveals, mission section fade-ins, and hover effects on images. Removed card container from "Pivot to Safety" text for a cleaner, balanced layout.
   - **About**: Staggered grid entrance for team cards with interactive hover states.
   - **Research**: Created a dedicated page listing publications. elaborated the content to frame the research (Adversarial Robustness, Dataset Auditing) as the "engineering backbone" of the company's educational products, and fixed alignment issues for a cohesive layout.
 

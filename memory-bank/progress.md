@@ -14,6 +14,7 @@
 - [x] Interactive Design & Motion (Framer Motion)
 - [x] Content Refinement (Transition Story)
 - [x] Research Page Implementation (Company-framed, elaborated content)
+- [x] Homepage UI Refinement (Clean layout, removed text card container)
 
 ## Known Issues
 None.
