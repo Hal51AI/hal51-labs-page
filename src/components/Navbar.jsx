@@ -17,14 +17,12 @@ const Navbar = () => {
             <Link to="/about" className="text-gray-300 hover:text-cyan-400 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-300">
               About
             </Link>
-            <a 
-              href="https://arxiv.org/abs/2311.03449" 
-              target="_blank" 
-              rel="noopener noreferrer"
+            <Link 
+              to="/research" 
               className="text-gray-300 hover:text-cyan-400 px-3 py-2 rounded-md text-sm font-medium transition-colors duration-300"
             >
               Research
-            </a>
+            </Link>
           </div>
         </div>
       </div>

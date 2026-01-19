@@ -12,6 +12,7 @@ Preparing for deployment of the new interactive design.
 - **Page Enhancements**:
   - **Home**: Staggered text reveals, mission section fade-ins, and hover effects on images.
   - **About**: Staggered grid entrance for team cards with interactive hover states.
+  - **Research**: Created a dedicated page listing publications, replacing the single external link in the navbar.
 
 ## Next Steps
 1.  Verify responsiveness across devices (basic check done).
