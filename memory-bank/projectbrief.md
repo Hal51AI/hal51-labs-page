@@ -11,5 +11,5 @@ Create a corporate website for Hal51 AI Labs (lab.hal51.ai) to showcase their mi
 
 ## Scope
 - **Tech Stack**: React, Tailwind CSS, Vite, GitHub Pages.
-- **Pages**: Home (Mission/Intro), About (Team), Research (Link).
+- **Pages**: Home (Mission/Intro), About (Team), Research (Publications & Safety Mission).
 - **Assets**: Use provided images for founders and product.

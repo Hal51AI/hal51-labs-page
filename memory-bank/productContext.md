@@ -11,5 +11,5 @@ A clean, professional website that tells this story:
 
 ## User Experience Goals
 - **Clarity**: Visitors should immediately understand what Hal51 AI does.
-- **Credibility**: Highlighting the strong academic and industry background of the founders (Vinay, Sang, Vikranth).
-- **Accessibility**: Easy access to their research (arXiv papers).
+- **Credibility**: Highlighting the strong academic and industry background of the founders, supported by a dedicated Research page detailing expertise in adversarial robustness and bias mitigation.
+- **Accessibility**: Easy access to their research publications and safety initiatives.

@@ -12,7 +12,7 @@ Preparing for deployment of the new interactive design.
 - **Page Enhancements**:
   - **Home**: Staggered text reveals, mission section fade-ins, and hover effects on images.
   - **About**: Staggered grid entrance for team cards with interactive hover states.
-  - **Research**: Created a dedicated page listing publications, replacing the single external link in the navbar.
+  - **Research**: Created a dedicated page listing publications. elaborated the content to frame the research (Adversarial Robustness, Dataset Auditing) as the "engineering backbone" of the company's educational products, and fixed alignment issues for a cohesive layout.
 
 ## Next Steps
 1.  Verify responsiveness across devices (basic check done).
