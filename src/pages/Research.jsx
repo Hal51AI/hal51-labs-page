@@ -245,7 +245,7 @@ const Research = () => {
               <p className="text-lg text-gray-300">
                 <span className="font-bold text-cyan-400">Read More:</span> Check out our latest updates on AI safety at{' '}
                 <a 
-                  href="https://alignchronicles.github.io/" 
+                  href="https://vinayprabhu.github.io/alignchronicles/archive/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-white hover:text-cyan-400 underline decoration-cyan-500/50 hover:decoration-cyan-400 transition-all duration-200"

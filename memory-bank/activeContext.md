@@ -4,7 +4,9 @@
 Preparing for deployment of the new interactive design.
 
 ## Recent Changes
-- **Content Update**: Elaborated on the "Pivot to Safety" narrative on the Home page, detailing the transition from hardware to LLM-powered avatars and the resulting safety insights.
+- **Content Update**:
+  - **Research Page**: Updated the "Align Chronicles" link to `https://vinayprabhu.github.io/alignchronicles/archive/` as per user request.
+  - Elaborated on the "Pivot to Safety" narrative on the Home page.
 - **Interactive Design**: Integrated `framer-motion` to add life and motion to the site.
 - **New Components**:
   - `AnimatedBackground`: A subtle, continuously moving background with floating orbs.
@@ -12,7 +14,7 @@ Preparing for deployment of the new interactive design.
 - **Page Enhancements**:
   - **Home**: Staggered text reveals, mission section fade-ins, and hover effects on images. Removed card container from "Pivot to Safety" text for a cleaner, balanced layout.
   - **About**: Staggered grid entrance for team cards with interactive hover states.
-  - **Research**: Created a dedicated page listing publications. elaborated the content to frame the research (Adversarial Robustness, Dataset Auditing) as the "engineering backbone" of the company's educational products, and fixed alignment issues for a cohesive layout.
+  - **Research**: Created a dedicated page listing publications. Elaborated the content to frame the research (Adversarial Robustness, Dataset Auditing) as the "engineering backbone" of the company's educational products, and fixed alignment issues for a cohesive layout.
 - **Infrastructure**:
   - Configured GitHub Actions workflow for automated deployment to GitHub Pages.
   - Updated `CNAME` to `labs.hal51.ai`.
