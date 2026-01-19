@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-gradient-to-br from-gray-950 via-slate-900 to-violet-950 text-gray-100 min-h-screen selection:bg-cyan-500 selection:text-white;
+  }
+}

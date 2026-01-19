@@ -1,19 +1,18 @@
 # Active Context
 
 ## Current Focus
-Initial setup of the Hal51 Labs website.
+Refining the visual design to match the "LemurBox" aesthetic.
 
 ## Recent Changes
-- Created Memory Bank documentation.
-- Planned project structure (Vite + React + Tailwind).
+- Implemented a global dark theme with deep violet/blue gradients.
+- Redesigned the Navbar with glassmorphism effects.
+- Updated Home and About pages with modern typography, gradients, and card styles.
+- Enhanced the "LemurBox" image presentation with glow effects.
 
 ## Next Steps
-1.  Scaffold Vite project.
-2.  Install Tailwind CSS.
-3.  Implement UI components and pages.
-4.  Configure for GitHub Pages.
+1.  Verify responsiveness across devices (basic check done).
+2.  Deploy updates to GitHub Pages.
 
 ## Active Decisions
-- **Stack**: React (standard for interactivity), Tailwind (rapid styling), Vite (fast build tool).
-- **Deployment**: GitHub Pages (requested by user).
-- **Assets**: Will be hosted in `src/assets` to be bundled by Vite.
+- **Design Language**: Shifted from generic corporate light theme to a "Dark Mode" tech-forward aesthetic to align with the product (LemurBox) and the AI Safety mission.
+- **Glassmorphism**: Used semi-transparent backgrounds with backdrop blur for containers to create depth.

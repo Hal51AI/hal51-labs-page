@@ -10,6 +10,7 @@
 - [x] Routing set up
 - [x] Build configuration
 - [x] CNAME created
+- [x] Visual Design Overhaul (Dark Theme)
 
 ## Known Issues
 None.
