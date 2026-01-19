@@ -11,6 +11,7 @@
 - [x] Build configuration
 - [x] CNAME created
 - [x] Visual Design Overhaul (Dark Theme)
+- [x] Interactive Design & Motion (Framer Motion)
 
 ## Known Issues
 None.

@@ -4,6 +4,7 @@
 - **React**: 18+
 - **Vite**: Latest
 - **Tailwind CSS**: 3+
+- **Framer Motion**: For animations and transitions.
 - **Node.js**: v24.6.0 (detected environment)
 - **Package Manager**: npm
 
