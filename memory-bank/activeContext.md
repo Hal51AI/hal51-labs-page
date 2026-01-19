@@ -16,10 +16,11 @@ Preparing for deployment of the new interactive design.
 - **Infrastructure**:
   - Configured GitHub Actions workflow for automated deployment to GitHub Pages.
   - Updated `CNAME` to `labs.hal51.ai`.
+  - Fixed GitHub Actions workflow trigger to listen to `main` branch instead of `master`.
 
 ## Next Steps
 1.  Verify responsiveness across devices (basic check done).
-2.  Push changes to `master` to trigger the first deployment.
+2.  Push changes to `main` to trigger the first deployment.
 
 ## Active Decisions
 - **Design Language**: Shifted from generic corporate light theme to a "Dark Mode" tech-forward aesthetic to align with the product (LemurBox) and the AI Safety mission.
